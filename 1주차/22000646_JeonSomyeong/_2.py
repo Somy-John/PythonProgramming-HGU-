@@ -1,0 +1,5 @@
+do = input('도:')
+si = input('시:')
+gu = input('구:')
+ect = input('나머지:')
+print('저의 주소는 '+do+' '+si+' '+gu+' '+ect+' 입니다')
